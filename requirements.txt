@@ -1,6 +1,0 @@
-sklearn
-numpy
-tensorflow
-keras
-matplotlib
-python-cv2
